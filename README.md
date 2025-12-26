@@ -1,10 +1,5 @@
 # 🏫 IS216 Web Application Development II
-
----
-
-## Section & Group Number
-G4 Group 16  
-
+Project Name: OnlyNotes
 ---
 
 ## Business Problem
