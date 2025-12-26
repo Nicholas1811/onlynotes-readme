@@ -7,19 +7,6 @@ G4 Group 16
 
 ---
 
-## Group Members
-
-| Photo | Full Name | Role / Features Responsible For |
-|:--:|:--|:--|
-| <img src="/photos/nic.jpg" width="80"> | Soh De Lin Nicholas | Seller Dashboard, Profile Page |
-| <img src="/photos/Darren.png" width="80"> | Darren Ng Yi Jie | Notes Recommendations, Note Upload, Tutorial |
-| <img src="/photos/joel.jpg" width="80"> | Joel Ow | Backend Services (Users, Notes), Notes listing, Mindmap |
-| <img src="/photos/ashley.jpg" width="80"> | Ashley Toh | Backend Services (Orders, Annotations), Payment, Forum, Login |
-| <img src="/photos/dylan.jpg" width="80"> | Sim Jun Zhi Dylan | Order Details and Composing Notes UI |
-| <img src="/photos/ashwin.jpg" width="80"> | Ashwin | Overall Styling of Web Application and Roadmap Page |
-
----
-
 ## Business Problem
 
 The community problem our project aims to address is that we realise the process of purchasing notes in SMU to be a cumbersome process. Currently, a solution that exists is the AskSMU channel in Telegram, in which students can liaise with sellers through the Education Resources topic in the channel. However, this would mean offline communication, handling of payments, and sending of files. Such way of notes distribution and purchase is cumbersome. 
